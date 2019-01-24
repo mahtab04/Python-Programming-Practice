@@ -7,7 +7,7 @@
 ***In this repository, I will be updating my regular status and activities of the given problems with my own solution.Also, I will be explaining the code and tell my oppinion about the problem if needed. Main Authors solutions are in python 2 & my solutions will be in python 3***
 
 
-## 100+ Python challenging programming exercises
+##  Python challenging programming exercises
 ### 1.	Level description
 
 - **Level 1:**	*Beginner means someone who has just gone through an introductory Python course. He can solve some problems with 1 or 2 Python classes or functions. Normally, the answers could directly be found in the textbooks*
