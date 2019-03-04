@@ -2,7 +2,7 @@
 ---------------------
 ##	Introduction 
 
-***The excersise text contents of this repository was collected from github account of [zhiwehu](https://github.com/zhiwehu/Python-programming-exercises).I collected it to practice and solve all the listed problems with python.As I was learning python in this running timeline ,I hope this 100+ excercise will help me a lot to get my hands free with python.***
+***The excersise text contents of this repository was collected from github account of [zhiwehu](https://github.com/zhiwehu/Python-programming-exercises).I collected it to practice and solve all the listed problems with python.As I was learning python in this running timeline.***
 
 ***In this repository, I will be updating my regular status and activities of the given problems with my own solution.Also, I will be explaining the code and tell my oppinion about the problem if needed. Main Authors solutions are in python 2 & my solutions will be in python 3***
 
